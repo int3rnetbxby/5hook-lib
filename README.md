@@ -14,6 +14,14 @@
 > [!TIP]
 > You can see our [documentation](https://5hook.cc/opensource) to improve your experience and make your script more customizable.
 
+## Known Issues
+###### This list is in order of priority.
+A list of not working features
+
+- Empty for now
+
+###### If you have experiencing a issue, try making an [issue](https://github.com/int3rnetbxby/5hook-lib/issues).<br>PS: We will help you with your own code, but that is not our responsibility.
+
 ## Features
 - Tabs, group boxes, and tab boxes
 - Almost any UI element you would ever need (toggles, sliders, dropdowns, etc)
