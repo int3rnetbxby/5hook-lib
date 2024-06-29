@@ -35,6 +35,7 @@ A list of not working features
 - [ ] Customizable addons
 - [ ] Debugger
 - [ ] Sandbox Debugging and Testing (Without Roblox)
+- [ ] Stream-Proof
 
 ## Contributors
 ###### To contribute in any way, contact us by discord server linked with this repository.
